@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... ML
 - 💞️ I’m looking to collaborate on projects on Ml and AI
 - 📫 How to reach me 
-- My twitter Handle- @JainPoorvik
+- My twitter - https://twitter.com/JainPoorvik
 - Linkedin :https://www.linkedin.com/in/jainpoorvik
 
 <!---
